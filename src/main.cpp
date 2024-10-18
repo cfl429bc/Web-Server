@@ -30,8 +30,6 @@ const char* identity = "londal@bc.edu";
 const char* password = "Chris21bc";
 #define SERVER_PORT 8080
 
-test
-
 // Web server setup
 WebServer server(SERVER_PORT);
 
